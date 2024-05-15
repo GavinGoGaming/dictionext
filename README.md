@@ -1,2 +1,2 @@
 # dictionext
-Next.js multi-dictionary lookup tool
+Next.js multi-dictionary lookup tool. Licensed under WTFPL.
